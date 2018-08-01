@@ -1,0 +1,21 @@
+h1{
+	text-align:center;
+	color:#03F;
+	text-decoration:underline;
+	}
+.p{
+	background:#93C;
+	width:90%;
+	height:600px;
+	margin-left:60px;
+	padding:10px;
+	
+	}
+	.p table td{
+		width:250px;
+		color:#FFF;
+		font-size:15px;
+		}
+	.p p{
+		text-align:center;
+		}
